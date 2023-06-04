@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "146786816007",
+    "firebase_url": "https://seating-charts-dc9f8-default-rtdb.firebaseio.com",
+    "project_id": "seating-charts-dc9f8",
+    "storage_bucket": "seating-charts-dc9f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146786816007:android:643c3478a298d7b35c9aa2",
+        "android_client_info": {
+          "package_name": "com.example.t"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "146786816007-14f2codkqbnd03nmnde15rehubb69g36.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzzxthZpUQXrWSBPwXsGQcz6rK2E8ijNI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "146786816007-14f2codkqbnd03nmnde15rehubb69g36.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "146786816007-11sjl3qnffnk0vn4dq1r7eco78kff0fu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.seatingChartFinal.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
